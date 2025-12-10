@@ -1,2 +1,2 @@
 # PWI_pracownia8
-zadanie 3 na 8. pracownię z PWI
+Zadanie 3. na 8. pracownię z PWI.
